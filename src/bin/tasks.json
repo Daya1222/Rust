@@ -1,0 +1,32 @@
+[
+  {
+    "number": 1,
+    "task": "Wash Clothes",
+    "status": "Completed"
+  },
+  {
+    "number": 2,
+    "task": "Feed dog",
+    "status": "Incomplete"
+  },
+  {
+    "number": 4,
+    "task": "Walk the dog",
+    "status": "Incomplete"
+  },
+  {
+    "number": 5,
+    "task": "Dishes",
+    "status": "Incomplete"
+  },
+  {
+    "number": 6,
+    "task": "goagaga",
+    "status": "Incomplete"
+  },
+  {
+    "number": 7,
+    "task": "exit",
+    "status": "Incomplete"
+  }
+]
