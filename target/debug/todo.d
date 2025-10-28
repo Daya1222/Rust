@@ -1,1 +1,1 @@
-/home/dayaj/projects/rust/target/debug/todo: /home/dayaj/projects/rust/src/bin/todo.rs
+C:\Users\dayaj\Projects\rust\target\debug\todo.exe: C:\Users\dayaj\Projects\rust\src\bin\todo.rs
