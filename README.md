@@ -1,1 +1,1 @@
-Rust practice code. Codes are in src/bin
+Rust practice code. Programs are in src/bin
